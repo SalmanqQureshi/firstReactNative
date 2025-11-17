@@ -1,0 +1,45 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/EuclidSquare-Bold.ttf",
+      "sha1": "0c0947ba0dd9836e66948cfb497071c6f03a3ba0"
+    },
+    {
+      "path": "assets/fonts/EuclidSquare-BoldItalic.ttf",
+      "sha1": "6a2445215d123967ecedf29b4c92597182285ea7"
+    },
+    {
+      "path": "assets/fonts/EuclidSquare-Italic.ttf",
+      "sha1": "c3e303752d359abb181f7c5bf07ce5dffe0b9aea"
+    },
+    {
+      "path": "assets/fonts/EuclidSquare-Light.ttf",
+      "sha1": "5051c3aa1eaa3db3b669f33ff4d6cca0eba58699"
+    },
+    {
+      "path": "assets/fonts/EuclidSquare-LightItalic.ttf",
+      "sha1": "90c221a6367d07690325781c55a2e03de0b552b2"
+    },
+    {
+      "path": "assets/fonts/EuclidSquare-Medium.ttf",
+      "sha1": "90321f86045a9c05a55ff343b67531d44b73839a"
+    },
+    {
+      "path": "assets/fonts/EuclidSquare-MediumItalic.ttf",
+      "sha1": "c61c3e0f3fe0260e65f51415c48094dd3a4b0944"
+    },
+    {
+      "path": "assets/fonts/EuclidSquare-Regular.ttf",
+      "sha1": "a0a566a35f509e5ef0004400f8fe43bcefc7f9c6"
+    },
+    {
+      "path": "assets/fonts/EuclidSquare-SemiBold.ttf",
+      "sha1": "05b10f82c6786652bde4ea9c54a085bb74a0240d"
+    },
+    {
+      "path": "assets/fonts/EuclidSquare-SemiBoldItalic.ttf",
+      "sha1": "e78179bb2094289f7ba051662482d4ace3b08b6e"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "849059059930",
+    "project_id": "constructified-36ca7",
+    "storage_bucket": "constructified-36ca7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849059059930:android:100b91cc797e79d7032de3",
+        "android_client_info": {
+          "package_name": "com.constructify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClWIG8la_jatFLK2D-ACC2tfZZ0_Y39bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
