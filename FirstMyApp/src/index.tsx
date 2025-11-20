@@ -1,3 +1,4 @@
+import 'react-native-gesture-handler';
 import React, { useEffect } from 'react';
 import { Alert, AuthProvider, Block } from './components';
 import { RootNavigation } from './screens';
@@ -40,11 +41,11 @@ LogBox.ignoreAllLogs()
         barStyle={'dark-content'}
         backgroundColor={Colors.background}
       />
-      {/* <Block flex gradient={[Colors.error, Colors.error]} backgroundColor='#000'> */}
+      <Block flex gradient={[Colors.error, Colors.error]} backgroundColor='#000'>
         <RootNavigation ref={navigatorRef}/>
-        <FlashMessage />
-      {/* </Block> */}
-      <Alert />
+        {/* <FlashMessage />*/}
+      </Block>
+      {/* <Alert /> */}
     </AuthProvider>
   );
 }

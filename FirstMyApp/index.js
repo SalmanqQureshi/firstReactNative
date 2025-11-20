@@ -1,7 +1,4 @@
-/**
- * @format
- */
-
+import 'react-native-gesture-handler';
 import {AppRegistry} from 'react-native';
 // import App from './Container/Screen/map';
 import App from './src';
