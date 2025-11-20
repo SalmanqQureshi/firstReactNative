@@ -4,6 +4,9 @@ import { Alert, AuthProvider, Block } from './components';
 import { RootNavigation } from './screens';
 import SplashScreen from 'react-native-splash-screen';
 import KeyboardManager from 'react-native-keyboard-manager';
+
+
+
 import { LogBox, PermissionsAndroid, Platform, StatusBar } from 'react-native';
 import { Colors } from './config';
 import FlashMessage from 'react-native-flash-message';

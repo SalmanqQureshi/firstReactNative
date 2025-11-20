@@ -25,7 +25,7 @@ console.log("dsds",Object.entries(obj).map((item,index,array)=>{
 //  }
 //  console.log('finished looping')
 // }
-// function simpe(){
-//     console.log(...arguments)
-// }
-// simpe(12,3.3,'4',false)
+function simpe(){
+    console.log(...arguments)
+}
+simpe(12,3.3,'4',false)
